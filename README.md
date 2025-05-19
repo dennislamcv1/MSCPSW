@@ -1,5 +1,5 @@
 # MSCPSW
-## Microsoft Copilot for Software Development Specialization
+## Microsoft Copilot for Software Development Specialization (4 course series)
 
 Are you ready to explore the cutting-edge world of generative AI? Take your coding practices to the next level with this program and learn how generative AI tools, particularly GitHub Copilot, can transform your development workflow and boost your productivity. 
 
